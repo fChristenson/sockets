@@ -7,7 +7,7 @@
 
 ## Notes
 
-Websockets is a communication protocol for sending realtime events between a client and a server.
+websockets is a communication protocol for sending realtime events between a client and a server.
 
 They are very useful when we want to show realtime updates in a users browser such as when uploading something
 or using a live chat app.
